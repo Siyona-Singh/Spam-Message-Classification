@@ -2,7 +2,7 @@
 
 The aim of this project is to classify messages as "Spam" or "Ham(Not Spam)".
 
-It uses Natural Language Processing and Machine Learning to do this.
+It uses Machine Learning to do this.
 
 The input data is not dynamic and is taken from a dataset.
 
